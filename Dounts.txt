@@ -1,0 +1,35 @@
+---- Sec-1 Introduction to Backend and Node.js ----
+
+---- Sec-2 Basics of Terminal -----
+---- Sec-3 Basics of OS ----
+1. 32-bit vs 64-bit OS architechture
+
+---- Sec-4 Fundamentals of Node.js ----
+---- Sec-5 Data Representing in Computing ----
+---- Sec-6 Mastering Buffers and Handling Binary Data in Node.js ----
+---- Sec-7 Event-Driven Architechture and EventEmitter in Node.js ----
+---- Sec-8 Streams and Handling Data Flow like a Pro ----
+---- Sec-9 Basics of Computer Networking ----
+---- Sec-10 Networking with Core Node.js Modules ----
+---- Sec-11 Building RESTful CRUD APIs with Express.js ----
+---- Sec-12 Mastering Database Management with MongoDB and Mongoose ----
+---- Sec-13 Improving our Codebase with MVC Architechture ----
+---- Sec-14 Session Management, Login, and Authentication ----
+---- Sec-15 Securing our Node.js Application ----
+---- Sec-16 Deploying Node.js  Applications and CI/CD ----
+---- Sec-17 Node.js Under the Hood ----
+---- Sec-18 Working with Child Processes in Node.js ----
+---- Sec-19 Scaling Node.js Applications with Clustering ----
+---- Sec-20 Compression in Web Application ----
+---- Sec-21 Multithreaading in Node.js ----
+---- Sec-22 Cryptography in Node.js ----
+---- Sec-23 Real-Time Communication with WebSockets ----
+---- Sec-24 Capstone Project - Building ProCodrr.com from Scratch ----
+
+
+
+32-bit vs 64-bit OS architechture
+in mobile speed problem
+is node js single threaded or multithreaded.
+javascript event loop vs node js event loop.
+what deos event driven mean in node js.
