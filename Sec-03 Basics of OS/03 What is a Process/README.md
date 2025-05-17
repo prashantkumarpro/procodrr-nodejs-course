@@ -2,6 +2,8 @@
 
 A **process** is a **program in execution**. It is a fundamental concept in operating systems (OS) that represents a running instance of a software application. Each process has its own memory space, system resources, and execution state.
 
+## Note: An `individual process` is always `executed` by a single `core` of the `processor` or `cpu`.
+
 ---
 
 ### **1. Definition & Key Characteristics of a Process**
