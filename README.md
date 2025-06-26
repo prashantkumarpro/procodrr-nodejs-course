@@ -1,4 +1,4 @@
-## Complete Backend With Node.js – Notes by Hameed Khan
+## Complete Backend With Node.js – Notes by Hameed Khan and I'm getting the benifites. I don't need to make notes. A big thanks to Hameed Khan
 
 These notes are a mix of my personal understanding and content generated using ChatGPT and DeepSeek.
 
